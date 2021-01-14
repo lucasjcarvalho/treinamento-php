@@ -1,0 +1,1 @@
+Deploy simples com Continuous Delivery
